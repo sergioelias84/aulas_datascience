@@ -1,0 +1,19 @@
+[1mdiff --git a/main.py b/main.py[m
+[1mindex c20c9ec..1d5dfa9 100644[m
+[1m--- a/main.py[m
+[1m+++ b/main.py[m
+[36m@@ -1,3 +1,11 @@[m
+[31m-import pandas as pd[m
+[31m-import numpy as np[m
+[31m-import matplotlib.pyplot as plt[m
+[32m+[m[41m[m
+[32m+[m[32m#1. CRIE UM PASTA LOCAL NO SEU COMPUTADOR E INICIALIZE O GIT NESSA PASTA COM GIT INIT;[m[41m[m
+[32m+[m[32m#2. ADICIONE ARQUIVOS NESSA PASTA E VEJA AS MODIFICAÇÕES COM GIT STATUS;[m[41m[m
+[32m+[m[32m#3. UTILIZE O GIT ADD E O GIT COMMIT;[m[41m[m
+[32m+[m[32m#4. CRIE UM NOVO REPOSITÓRIO NO SEU GITHUB;[m[41m[m
+[32m+[m[32m#5. CONECTE ESSE REPOSITÓRIO REMOTE COM O SEU REPOSITÓRIO LOCAL DO SEU COMPUTADOR E SINCRONIZE-OS;[m[41m[m
+[32m+[m[32m#6. CRIE UMA NOVA BRANCH E NAVEGUE ENTRE AS BRANCHES[m[41m[m
+[32m+[m[32m#7. CRIE UM PULL REQUEST NO GITHUB E FAÇA O MERGE;[m[41m[m
+[41m+[m
+[41m+[m
+[41m+[m
